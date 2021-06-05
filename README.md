@@ -3,10 +3,11 @@ A Simple Example explaining how to host pyrogram-made bots in Heroku.
 
 ## Getting Started
 #### 1. Obtain a Bot Token from @botfather in Telegram.
+#### 1.1. Obtain telegram [Api_id and Api_hash](https://my.telegram.org/auth)  and put these values in ```keyS.py```, then execute  ```kit.py``` on your machine
+#### 1.2. Copy paste the session string from ```session.txt``` only after running ```kit.py``` inside  ```sessionString.py```
 #### 2. [Login](https://id.heroku.com/login) / [Create](https://signup.heroku.com/t/platform?c=7013A000000ib1xQAA&gclid=CjwKCAjw6qqDBhB-EiwACBs6x-E12QzmyEndOYT-7ikg9IdMqyE2YvdpFEvcnOsBD7ugTMdzSUFSABoCzroQAvD_BwE) a Heroku Account.
 #### 3. Install [heroku-CLI](https://devcenter.heroku.com/articles/heroku-cli).
 #### 4. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-#### 4. Make your own Procfile and requirements.txt as in the Repo above.
 
 
 ## Hosting pyrogram-bot using heroku-CLI:
