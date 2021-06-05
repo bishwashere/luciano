@@ -1,5 +1,5 @@
-# Pyrogram-Heroku Bot
-A Simple Example explaining how to host pyrogram-made bots in Heroku.
+# Telegram-Heroku UserBot
+A Simple Example explaining how to host bots in Heroku.
 
 ## Getting Started
 #### 1. Obtain a Bot Token from @botfather in Telegram.
