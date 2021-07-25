@@ -1,5 +1,6 @@
 # Pyrogram-Heroku Bot
 A Simple Example explaining how to host pyrogram-made bots in Heroku.
+```please run kit.py before bot.py```
 
 ## Getting Started
 #### 1. Obtain a Bot Token from @botfather in Telegram.
