@@ -1,4 +1,4 @@
-# Pyrogram-Heroku Bot
+# Tg crypto Bot
 A Simple Example explaining how to host pyrogram-made bots in Heroku.
 ```please run kit.py before bot.py```
 
